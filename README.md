@@ -8,10 +8,9 @@ By completing this project, you will:
  - Understand how to structure a complex web application
  - Practice working in a team with defined roles
  -Develop skills in component-based frontend architecture
--Learn best practices for web application development
+ -Learn best practices for web application development
 
 ##Tech Stack
-
-  -Frontend: HTML, CSS, JavaScript (React or similar framework)
-  -Version Control: Git and GitHub
-  -Design Tools: Figma for UI/UX design
+   -Frontend: HTML, CSS, JavaScript (React or similar framework)
+   -Version Control: Git and GitHub
+   -Design Tools: Figma for UI/UX design
