@@ -65,7 +65,7 @@ By focusing on usability and accessibility, the platform ensures that users can 
 
 ---
 
-## 🧩 Roles and Responsibilities
+## 🧩 Project Roles and Responsibilities.
 
 | **Role** | **Responsibilities** |
 |-----------|----------------------|
