@@ -49,20 +49,19 @@ A well-designed booking system enhances the overall user experience by minimizin
 By focusing on usability and accessibility, the platform ensures that users can easily search, view, and book accommodations across different devices and screen sizes.
 
 ---
+### 🎨 Figma Design Specifications
 
-## Figma Design Specifications
+**Color Styles:**
+- Primary: `#FF5A5F`  
+- Secondary: `#008489`  
+- Background: `#FFFFFF`  
+- Text: `#222222`  
+- Secondary Text: `#717171`
 
-### Color Styles:
-- Primary: #FF5A5F
-- Secondary: #008489
-- Background: #FFFFFF
-- Text: #222222
-- Secondary Text: #717171
-
-### Typography:
-- Primary Font: Circular, Medium (500), 16px
-- Headings: Circular, Bold (700), 24px-32px
-- Secondary Text: Circular, Book (400), 14px
+**Typography:**
+- Primary Font: *Circular*, Medium (500), 16px  
+- Headings: *Circular*, Bold (700), 24px–32px  
+- Secondary Text: *Circular*, Book (400), 14px
 
 ---
 
