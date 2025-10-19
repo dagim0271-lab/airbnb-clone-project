@@ -58,7 +58,7 @@ By focusing on usability and accessibility, the platform ensures that users can 
 - Background: #FFFFFF
 - Text: #222222
 - Secondary Text: #717171
-- 
+
 ###Typography:
 - Primary Font: Circular, Medium (500), 16px
 - Headings: Circular, Bold (700), 24px-32px
