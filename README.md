@@ -65,4 +65,40 @@ By focusing on usability and accessibility, the platform ensures that users can 
 
 ---
 
+## 🧩 Roles and Responsibilities
+
+| **Role** | **Responsibilities** |
+|-----------|----------------------|
+| **Project Manager** | Oversees timeline, coordinates team, manages deliverables |
+| **Frontend Developers** | Implement UI components, ensure responsive design |
+| **Backend Developers** | Build APIs, manage database, implement business logic |
+| **Designers** | Create mockups, maintain design system, ensure UX quality |
+| **QA/Testers** | Write test cases, perform testing, report bugs |
+| **DevOps Engineers** | Manage deployment, CI/CD pipeline, server infrastructure |
+| **Product Owner** | Define requirements, prioritize features, represent stakeholders |
+| **Scrum Master** | Facilitate agile processes, remove blockers, organize meetings |
+
+---
+
+## 🧱 UI Component Patterns
+
+### Planned Components
+- **Navbar**
+  - Logo  
+  - Search bar  
+  - User navigation  
+  - Responsive menu  
+
+- **Property Card**
+  - Property image  
+  - Basic details (price, location, rating)  
+  - Favorite button  
+  - Responsive layout  
+
+- **Footer**
+  - Site links  
+  - Company information  
+  - Social media links  
+  - Copyright  
+
 
